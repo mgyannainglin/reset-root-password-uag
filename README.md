@@ -1,4 +1,4 @@
-# reset-root-password-uag
+# reset root password Airwatch UAG server VMware
 1. Log into vcenter console.
 2. Locate the airwatch uag vm or appliance and connect vm console.
 3. Restart the uag vm.
