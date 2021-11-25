@@ -6,7 +6,7 @@
 5. Then, You will see the below GRUB options.
     * GNU GRUB
 
-![image](.\screenshot\before-edit.png)
+![image](./screenshot/before-edit.png)
 
 
 6. Remove all the word after "**root=$rootpartition**" and add below line after it.
@@ -20,7 +20,7 @@
 7. Type Ctrl+X or F10 to load after that it'll boot to root shell.
 
     * PASSWD shell
-    ![passwd shell](.\screenshot\passwd-reset-awuag.png)
+    ![passwd shell](./screenshot/passwd-reset-awuag.png)
 
         ```
         passwd
