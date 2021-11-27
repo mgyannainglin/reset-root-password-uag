@@ -2,7 +2,7 @@
 1. Log into vcenter console.
 2. Locate the airwatch uag vm or appliance and connect vm console.
 3. Restart the uag vm.
-4. When bootup or appeart photon OS GUI page press "**e**".
+4. When bootup or appear photon OS GUI page, press "**e**".
 5. Then, You will see the below GRUB options.
     * GNU GRUB
 
